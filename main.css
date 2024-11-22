@@ -333,13 +333,13 @@ span{
     background: #d9d9d9;
     color: #053342;
     text-transform: none;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     width: 100%;
     border-radius: 0.4rem;
 }
 .contact .row form .box::placeholder{
     text-transform: lowercase;
-    font-size: 18px;
+    font-size: 15px;
 }
 .contact .row form .message{
     height: 10rem;
